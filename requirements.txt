@@ -21,10 +21,10 @@ httpx==0.28.1
 idna==3.10
 jiter==0.10.0
 livekit==1.0.8
-livekit-agents==1.0.22
+livekit-agents==1.5.12
 livekit-api==1.0.2
 livekit-plugins-noise-cancellation==0.2.4
-livekit-plugins-openai==1.0.22
+livekit-plugins-openai==1.5.12
 livekit-protocol==1.0.3
 multidict==6.4.4
 nest-asyncio==1.6.0
